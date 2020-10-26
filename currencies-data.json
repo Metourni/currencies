@@ -292,7 +292,7 @@
     "rounding": 0,
     "code": "BYN",
     "namePlural": "Belarusian rubles",
-    "countries": []
+    "countries": ["BY"]
   },
   {
     "name": "Belize Dollar",
@@ -461,7 +461,7 @@
     "rounding": 0,
     "code": "EEK",
     "namePlural": "Estonian kroons",
-    "countries": []
+    "countries": ["EE"]
   },
   {
     "name": "Egyptian Pound",
@@ -824,7 +824,7 @@
     "rounding": 0,
     "code": "LTL",
     "namePlural": "Lithuanian litai",
-    "countries": []
+    "countries": ["LT"]
   },
   {
     "name": "Latvian Lats",
@@ -834,7 +834,7 @@
     "rounding": 0,
     "code": "LVL",
     "namePlural": "Latvian lati",
-    "countries": []
+    "countries": ["LV"]
   },
   {
     "name": "Libyan Dinar",
@@ -1487,7 +1487,7 @@
     "rounding": 0,
     "code": "ZMK",
     "namePlural": "Zambian kwachas",
-    "countries": []
+    "countries": ["ZM"]
   },
   {
     "name": "Zimbabwean Dollar",
